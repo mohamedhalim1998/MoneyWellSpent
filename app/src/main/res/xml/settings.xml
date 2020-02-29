@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        android:title="@string/amount_setting_title"
+        android:key="@string/amount_setting_key"
+        android:defaultValue="@string/amount_setting_default"/>
+</PreferenceScreen>

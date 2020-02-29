@@ -1,0 +1,37 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Money Well Spent</string>
+    <string name="summary_total">Total :<xliff:g example="2" id="quantity">%.2f</xliff:g></string>
+    <string name="summary_remain">Remain :<xliff:g example="2" id="quantity">%.2f</xliff:g></string>
+    <string name="payment_data">Data :</string>
+    <string name="payment_category">Category :</string>
+    <string name="payment_amount">Amount :</string>
+    <string name="payment_note">Note :</string>
+    <string name="category_food">Food</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health</string>
+    <string name="category_bill">Bill</string>
+    <string name="category_other">Other</string>
+    <string name="action_save">save</string>
+    <string name="action_settings">settings</string>
+    <string name="amount_setting_title">Amount</string>
+    <string name="amount_setting_key">amountKey</string>
+    <string name="amount_setting_default">0.00</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="action_delete">Delete</string>
+
+</resources>
